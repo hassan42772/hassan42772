@@ -52,7 +52,7 @@
 <hr/>
 
 <div align="center">
- <img  alt="Coding" width="800" height="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ <img  alt="Coding" width="800" height="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   <br>
 
   
