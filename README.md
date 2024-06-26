@@ -51,16 +51,6 @@
 <br/>
 <hr/>
 
-<div align="center">
- <img  alt="Coding" width="800" height="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-  <br>
-
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -72,6 +62,16 @@
 
 <br/><br/>
 
+<hr/>
+
+
+<div align="center">
+ <img  alt="Coding" width="800" height="450" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+  <br>
+
+
+  <br/>
+</div>
 <hr/>
 
 <br/>
