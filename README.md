@@ -78,7 +78,7 @@
 
 <div align="center">
   <a href="https://your-coding-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Coding-333333?style=for-the-badge&logo=code&logoColor=white" alt="Coding" style="height:64px;border:0px;">
+    <img src="https://img.shields.io/badge/I Love Coding-333333?style=for-the-badge&logo=code&logoColor=white" alt="Coding" style="height:64px;border:0px;">
   </a>
 </div>
 
