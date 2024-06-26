@@ -77,7 +77,13 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href="https://your-coding-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Coding-333333?style=for-the-badge&logo=code&logoColor=white" alt="Coding" style="height:64px;border:0px;">
+  </a>
 </div>
+
+
+
+
 
 <br/>
