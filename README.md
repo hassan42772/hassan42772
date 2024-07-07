@@ -54,7 +54,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan42772&show_icons=true&locale=en&layout=compact" alt="hassan42772" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan4772&show_icons=true&locale=en&layout=compact" alt="hassan42772" />
   <img width=390  src="https://github-readme-stats.vercel.app/api?username=hassan42772&show_icons=true&locale=en" alt="hassan42772"  />
   <br/>
   <img width=325 align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=hassan42772&" alt="hassan42772" alt="top langs" />
