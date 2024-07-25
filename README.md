@@ -69,7 +69,7 @@
 <br/><br/>
 
 <hr/>
-<h3 align="center">Snake Game</h3>
+<h3 align="center">🐍Snake Game🐍</h3>
 <img align='center' src="https://raw.githubusercontent.com/hassan42772/hassan42772/output/snake.svg" alt="Snake animation" />
 <hr/>
 <div align="center">
