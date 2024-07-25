@@ -81,9 +81,5 @@
     <img src="https://img.shields.io/badge/I Love Coding-333333?style=for-the-badge&logo=code&logoColor=white" alt="Coding" style="height:64px;border:0px;">
   </a>
 </div>
-
-
-
-
-
 <br/>
+<img align='center' src="https://raw.githubusercontent.com/itzmudassir/itzmudassir/output/snake.svg" alt="Snake animation" />
