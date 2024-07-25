@@ -51,19 +51,23 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan42772&show_icons=true&locale=en&layout=compact" alt="hassan42772" />
-  <img width=390  src="https://github-readme-stats.vercel.app/api?username=hassan42772&show_icons=true&locale=en" alt="hassan42772"  />
-  <br/>
-  <img width=325 align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=hassan42772&" alt="hassan42772" alt="top langs" />
+<h3 align="center">⚡Stats⚡</h3>
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassan42772&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan42772&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hassan42772&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <br/><br/>
 
 <hr/>
-
+<img align='center' src="https://raw.githubusercontent.com/itzmudassir/itzmudassir/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
  <img  alt="Coding" width="800" height="450" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
@@ -82,4 +86,4 @@
   </a>
 </div>
 <br/>
-<img align='center' src="https://raw.githubusercontent.com/itzmudassir/itzmudassir/output/snake.svg" alt="Snake animation" />
+
