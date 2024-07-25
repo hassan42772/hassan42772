@@ -1,4 +1,6 @@
+<img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=hassan42772.hassan42772&"  />
 ![logo](https://github.com/hassan42772/hassan42772/blob/main/123.png)
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rana+Hassan!;" />
@@ -67,6 +69,7 @@
 <br/><br/>
 
 <hr/>
+<h3 align="center">Snake Game</h3>
 <img align='center' src="https://raw.githubusercontent.com/hassan42772/hassan42772/output/snake.svg" alt="Snake animation" />
 <hr/>
 <div align="center">
