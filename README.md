@@ -12,7 +12,7 @@
 
 <div align="center">
  
-✨ Creating bugs since 2021
+✨ Creating bugs since 2022
  
  🌱 I’m currently learning **React JS**
 
