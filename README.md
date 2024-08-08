@@ -45,8 +45,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,sublime text,pycharm,visualstudio" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mysql,arduino,cplusplus" /><br>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,sublime,visualstudio,pycharm,cpp" /></br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48"/> 
+
+
+
+<img src="https://skillicons.dev/icons?i=python,javascript,firebase,mysql,arduino" />
 
 </div>
 
