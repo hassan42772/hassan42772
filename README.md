@@ -94,7 +94,7 @@
 
 |  #  | Project                                                                                                                    | Live Demo |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------- |
-| 01  | [Age Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Projects/age_calculator/) |
+| 01  | [Age Calculator](https://github.com/hassan42772/JavaScript_Project/tree/main/Age_calculator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/age_calculator/) |
 | 02  | [BMI Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/BMI_Calculator_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/bmi_calculator.html) |
 | 03  | [Background Color Changer](https://github.com/hassan42772/JavaScript_projects/tree/main/Background_Color_Changer_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/background_color_changer.html) |
 | 04  | [Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Calculator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/calculator.html) |
