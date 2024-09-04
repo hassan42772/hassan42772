@@ -107,7 +107,7 @@
 | 11  | [Image Search Engine](https://github.com/hassan42772/JavaScript_projects/tree/main/ImageSearchEngine)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/ImageSearchEngine/Image.html) |
 | 12  | [Light/Dark Theme](https://github.com/hassan42772/JavaScript_projects/tree/main/Light_Dark_theme)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Light_Dark_theme/Theme.html) |
 | 13  | [Live Coin Value](https://github.com/hassan42772/JavaScript_projects/tree/main/LiveCryptovalue)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/LiveCryptovalue/crypto.html) |
-| 14  | [Mini Calendar](https://github.com/hassan42772/JavaScript_projects/tree/main/MiniCalender)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/MiniCalender/calendar.html) |
+| 14  | [Mini Calendar](https://github.com/hassan42772/JavaScript_projects/tree/main/MiniCalender)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/MiniCalender/calender.html) |
 | 15  | [Music Player](https://github.com/hassan42772/JavaScript_projects/tree/main/Music_player)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Music_player/music.html) |
 | 16  | [Notes App](https://github.com/hassan42772/JavaScript_projects/tree/main/NOTES_APP)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/NOTES_APP/notes.html) |
 | 17  | [Notification SnackBar](https://github.com/hassan42772/JavaScript_projects/tree/main/Notification_SnackBar)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Notification_SnackBar/Notification.html) |
