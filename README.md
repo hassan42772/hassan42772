@@ -86,21 +86,10 @@
 <hr/>
 
 <br/>
+<h3 align="center">🐍Our Projects🐍</h3>
 
-<div align="center">
-  <a href="https://github.com/hassan42772" target="_blank">
-    <img src="https://img.shields.io/badge/I Love Coding-333333?style=for-the-badge&logo=code&logoColor=white" alt="Coding" style="height:64px;border:0px;">
-  </a>
-</div>
-<br/>
 <div align="center">
     
-
-
-
-
-
-
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Age Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)                             | [Live Demo](https://hassan42772.github.io/JavaScript_projects/Age_calculator/)               |
@@ -154,10 +143,6 @@
 | 49  | [Todo List](https://github.com/bradtraversy/50projects50days/tree/master/todo-list)                                         | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
 | 50  | [Insect Catch Game](https://github.com/bradtraversy/50projects50days/tree/master/insect-catch-game)                         | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
 | 51  | [Simple Timer](https://github.com/bradtraversy/50projects50days/tree/master/simple-timer)                                   | [Live Demo](https://50projects50days.com/projects/simple-timer/)             |
-
-
-
-
 
 </div>
 
