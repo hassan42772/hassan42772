@@ -121,7 +121,7 @@
 | 25  | [Scroll Gallery](https://github.com/hassan42772/JavaScript_projects/tree/main/Scroll_Gallery)                               
 | 26  | [Show Password Strength](https://github.com/hassan42772/JavaScript_projects/tree/main/ShowPasswordStrength)  
 | 27  | [Stopwatch](https://github.com/hassan42772/JavaScript_projects/tree/main/Stopwatch)  
-| 28  | [TO-DO LIST](https://github.com/hassan42772/JavaScript_projects/tree/main/TO-DO LIST)  
+| 28  | [TO-DO LIST](https://github.com/hassan42772/JavaScript_projects/tree/main/TO-DO-LIST)  
 | 29  | [Text To Voice Converter](https://github.com/hassan42772/JavaScript_projects/tree/main/TextToVoiceConverter)  
 | 30  | [weather app](https://github.com/hassan42772/JavaScript_projects/tree/main/weather_app_project)                    
 
