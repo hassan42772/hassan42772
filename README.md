@@ -112,16 +112,15 @@
 | 18  | [Password Validator](https://github.com/hassan42772/JavaScript_projects/tree/main/Password_validator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Password_validator/validator.html) |
 | 19  | [Product Page Design](https://github.com/hassan42772/JavaScript_projects/tree/main/ProductPageDesign)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/ProductPageDesign/product.html) |
 | 20  | [Progress Bar](https://github.com/hassan42772/JavaScript_projects/tree/main/ProgressBar)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/ProgressBar/progressbar.html) |
-| 21  | [QR Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/QR_Generator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/QR_Generator/QR.html) |
-| 22  | [Quiz App](https://github.com/hassan42772/JavaScript_projects/tree/main/QuIz_App)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/QuIz_App/Quiz_app.html) |
-| 23  | [Quote Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/Quote_Generator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Quote_Generator/Quote_Generator.html) |
-| 24  | [Random Password Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/Random_Password_Generator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Random_Password_Generator/Random_PG.html) |
-| 25  | [Scroll Gallery](https://github.com/hassan42772/JavaScript_projects/tree/main/Scroll_Gallery)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Scroll_Gallery/Gallery.html) |
-| 26  | [Show Password Strength](https://github.com/hassan42772/JavaScript_projects/tree/main/ShowPasswordStrength)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/ShowPasswordStrength/strength.html) |
-| 27  | [Stopwatch](https://github.com/hassan42772/JavaScript_projects/tree/main/Stopwatch)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Stopwatch/stopwatch.html) |
-| 28  | [TO-DO List](https://github.com/hassan42772/JavaScript_projects/tree/main/TO-DO-LIST)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/TO_DO_LIST.html) |
-| 29  | [Text to Voice Converter](https://github.com/hassan42772/JavaScript_projects/tree/main/TextToVoiceConverter)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/TextToVoiceConverter/voice.html) |
-| 30  | [Weather App](https://github.com/hassan42772/JavaScript_projects/tree/main/weather_app_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/weather_app_project/weather_main.html) |
+| 21  | [Quiz App](https://github.com/hassan42772/JavaScript_projects/tree/main/QuIz_App)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/QuIz_App/Quiz_app.html) |
+| 22  | [Quote Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/Quote_Generator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Quote_Generator/Quote_Generator.html) |
+| 23  | [Random Password Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/Random_Password_Generator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Random_Password_Generator/Random_PG.html) |
+| 24  | [Scroll Gallery](https://github.com/hassan42772/JavaScript_projects/tree/main/Scroll_Gallery)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Scroll_Gallery/Gallery.html) |
+| 25  | [Show Password Strength](https://github.com/hassan42772/JavaScript_projects/tree/main/ShowPasswordStrength)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/ShowPasswordStrength/strength.html) |
+| 26  | [Stopwatch](https://github.com/hassan42772/JavaScript_projects/tree/main/Stopwatch)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Stopwatch/stopwatch.html) |
+| 27  | [TO-DO List](https://github.com/hassan42772/JavaScript_projects/tree/main/TO-DO-LIST)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/TO_DO_LIST.html) |
+| 28  | [Text to Voice Converter](https://github.com/hassan42772/JavaScript_projects/tree/main/TextToVoiceConverter)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/TextToVoiceConverter/voice.html) |
+| 29  | [Weather App](https://github.com/hassan42772/JavaScript_projects/tree/main/weather_app_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/weather_app_project/weather_main.html) |
 
 
 
