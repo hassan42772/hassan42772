@@ -92,9 +92,9 @@
 
 
 
-|  #  | Project                                                                                                                                                                                    
+|  #  |____________________________________________________________ Project________________________________________________________                                                                                                                                                                                    
 | :-: | --------------------------------------------------------------------------------------------------------------------------- 
-| 01  | [Age Calculator                                                           ](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)  
+| 01  | [Age Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)  
 | 02  | [Age Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)  
 | 03  | [Age Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)  
 | 04  | [Age Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)  
