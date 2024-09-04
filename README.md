@@ -98,9 +98,12 @@
 
 
 
+
+
+
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Age Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)                             | [Live Demo](https://JavaScript_projects.com/tree/main/Age_calculator)               |
+| 01  | [Age Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)                             | [Live Demo](https://hassan42772.github.io/JavaScript_projects/Age_calculator/)               |
 | 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
 | 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
@@ -151,6 +154,8 @@
 | 49  | [Todo List](https://github.com/bradtraversy/50projects50days/tree/master/todo-list)                                         | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
 | 50  | [Insect Catch Game](https://github.com/bradtraversy/50projects50days/tree/master/insect-catch-game)                         | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
 | 51  | [Simple Timer](https://github.com/bradtraversy/50projects50days/tree/master/simple-timer)                                   | [Live Demo](https://50projects50days.com/projects/simple-timer/)             |
+
+
 
 
 
