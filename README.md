@@ -88,7 +88,7 @@
 <br/>
 <h3 align="center">🐍Our Projects🐍</h3>
 
-<div align="center">
+<div align="center" width="100%">
 
 
 
