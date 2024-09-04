@@ -92,38 +92,39 @@
 
 
 
-|  #  |________________________________________________________Project________________________________________________________                                                                                                                                                                                    
-| :-: | --------------------------------------------------------------------------------------------------------------------------- 
-| 01  | [Age Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)  
-| 02  | [BMI_Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/BMI_Calculator_project)  
-| 03  | [Background_Color_Changer](https://github.com/hassan42772/JavaScript_projects/tree/main/Background_Color_Changer_project)  
-| 04  | [Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Calculator)  
-| 05  | [CommingSoonPage](https://github.com/hassan42772/JavaScript_projects/tree/main/CommingSoonPage)  
-| 06  | [Digital_Clock](https://github.com/hassan42772/JavaScript_projects/tree/main/Digital_Clock_Project)  
-| 07  | [Drag&Drop](https://github.com/hassan42772/JavaScript_projects/tree/main/Drag&Drop)  
-| 08  | [Email Saving In Google Sheet](https://github.com/hassan42772/JavaScript_projects/tree/main/EmailWithGoogleSheet)  
-| 09  | [Guess_Game](https://github.com/hassan42772/JavaScript_projects/tree/main/Guess_Game_Project)  
-| 10  | [Image Change Effect](https://github.com/hassan42772/JavaScript_projects/tree/main/ImageChangeEffect)  
-| 11  | [Image Search Engine](https://github.com/hassan42772/JavaScript_projects/tree/main/ImageSearchEngine)  
-| 12  | [Light_Dark_theme](https://github.com/hassan42772/JavaScript_projects/tree/main/Light_Dark_theme)  
-| 13  | [Live COIN value](https://github.com/hassan42772/JavaScript_projects/tree/main/LiveCryptovalue)  
-| 14  | [Mini Calender](https://github.com/hassan42772/JavaScript_projects/tree/main/MiniCalender)  
-| 15  | [Music player](https://github.com/hassan42772/JavaScript_projects/tree/main/Music_player)  
-| 16  | [NOTES APP](https://github.com/hassan42772/JavaScript_projects/tree/main/NOTES_APP)  
-| 17  | [Notification SnackBar](https://github.com/hassan42772/JavaScript_projects/tree/main/Notification_SnackBar)  
-| 18  | [Password validator](https://github.com/hassan42772/JavaScript_projects/tree/main/Password_validator)  
-| 19  | [Product Page Design](https://github.com/hassan42772/JavaScript_projects/tree/main/ProductPageDesign)  
-| 20  | [ProgressBar](https://github.com/hassan42772/JavaScript_projects/tree/main/ProgressBar)  
-| 21  | [QR Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/QR_Generator)  
-| 22  | [QuIz App](https://github.com/hassan42772/JavaScript_projects/tree/main/QuIz_App)  
-| 23  | [Quote Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/Quote_Generator)  
-| 24  | [Random Password Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/Random_Password_Generator)  
-| 25  | [Scroll Gallery](https://github.com/hassan42772/JavaScript_projects/tree/main/Scroll_Gallery)                               
-| 26  | [Show Password Strength](https://github.com/hassan42772/JavaScript_projects/tree/main/ShowPasswordStrength)  
-| 27  | [Stopwatch](https://github.com/hassan42772/JavaScript_projects/tree/main/Stopwatch)  
-| 28  | [TO-DO LIST](https://github.com/hassan42772/JavaScript_projects/tree/main/TO-DO-LIST)  
-| 29  | [Text To Voice Converter](https://github.com/hassan42772/JavaScript_projects/tree/main/TextToVoiceConverter)  
-| 30  | [weather app](https://github.com/hassan42772/JavaScript_projects/tree/main/weather_app_project)                    
+|  #  | Project                                                                                                                    | Live Demo |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 01  | [Age Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Age_calculator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/age_calculator.html) |
+| 02  | [BMI Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/BMI_Calculator_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/bmi_calculator.html) |
+| 03  | [Background Color Changer](https://github.com/hassan42772/JavaScript_projects/tree/main/Background_Color_Changer_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/background_color_changer.html) |
+| 04  | [Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/Calculator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/calculator.html) |
+| 05  | [Coming Soon Page](https://github.com/hassan42772/JavaScript_projects/tree/main/CommingSoonPage)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/coming_soon.html) |
+| 06  | [Digital Clock](https://github.com/hassan42772/JavaScript_projects/tree/main/Digital_Clock_Project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/digital_clock.html) |
+| 07  | [Drag & Drop](https://github.com/hassan42772/JavaScript_projects/tree/main/Drag&Drop)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/drag_drop.html) |
+| 08  | [Email Saving In Google Sheet](https://github.com/hassan42772/JavaScript_projects/tree/main/EmailWithGoogleSheet)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/email_to_google_sheet.html) |
+| 09  | [Guess Game](https://github.com/hassan42772/JavaScript_projects/tree/main/Guess_Game_Project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/guess_game.html) |
+| 10  | [Image Change Effect](https://github.com/hassan42772/JavaScript_projects/tree/main/ImageChangeEffect)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/image_change_effect.html) |
+| 11  | [Image Search Engine](https://github.com/hassan42772/JavaScript_projects/tree/main/ImageSearchEngine)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/image_search_engine.html) |
+| 12  | [Light/Dark Theme](https://github.com/hassan42772/JavaScript_projects/tree/main/Light_Dark_theme)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/light_dark_theme.html) |
+| 13  | [Live Coin Value](https://github.com/hassan42772/JavaScript_projects/tree/main/LiveCryptovalue)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/live_coin_value.html) |
+| 14  | [Mini Calendar](https://github.com/hassan42772/JavaScript_projects/tree/main/MiniCalender)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/mini_calendar.html) |
+| 15  | [Music Player](https://github.com/hassan42772/JavaScript_projects/tree/main/Music_player)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/music_player.html) |
+| 16  | [Notes App](https://github.com/hassan42772/JavaScript_projects/tree/main/NOTES_APP)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/notes_app.html) |
+| 17  | [Notification SnackBar](https://github.com/hassan42772/JavaScript_projects/tree/main/Notification_SnackBar)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/notification_snackbar.html) |
+| 18  | [Password Validator](https://github.com/hassan42772/JavaScript_projects/tree/main/Password_validator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/password_validator.html) |
+| 19  | [Product Page Design](https://github.com/hassan42772/JavaScript_projects/tree/main/ProductPageDesign)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/product_page_design.html) |
+| 20  | [Progress Bar](https://github.com/hassan42772/JavaScript_projects/tree/main/ProgressBar)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/progress_bar.html) |
+| 21  | [QR Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/QR_Generator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/qr_generator.html) |
+| 22  | [Quiz App](https://github.com/hassan42772/JavaScript_projects/tree/main/QuIz_App)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/quiz_app.html) |
+| 23  | [Quote Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/Quote_Generator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/quote_generator.html) |
+| 24  | [Random Password Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/Random_Password_Generator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/random_password_generator.html) |
+| 25  | [Scroll Gallery](https://github.com/hassan42772/JavaScript_projects/tree/main/Scroll_Gallery)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/scroll_gallery.html) |
+| 26  | [Show Password Strength](https://github.com/hassan42772/JavaScript_projects/tree/main/ShowPasswordStrength)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/show_password_strength.html) |
+| 27  | [Stopwatch](https://github.com/hassan42772/JavaScript_projects/tree/main/Stopwatch)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/stopwatch.html) |
+| 28  | [TO-DO List](https://github.com/hassan42772/JavaScript_projects/tree/main/TO-DO-LIST)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/to_do_list.html) |
+| 29  | [Text to Voice Converter](https://github.com/hassan42772/JavaScript_projects/tree/main/TextToVoiceConverter)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/text_to_voice_converter.html) |
+| 30  | [Weather App](https://github.com/hassan42772/JavaScript_projects/tree/main/weather_app_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/weather_app.html) |
+
 
 
 
