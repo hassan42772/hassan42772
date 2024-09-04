@@ -111,7 +111,7 @@
 | 17  | [Notification SnackBar](https://github.com/hassan42772/JavaScript_projects/tree/main/Notification_SnackBar)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Notification_SnackBar/Notification.html) |
 | 18  | [Password Validator](https://github.com/hassan42772/JavaScript_projects/tree/main/Password_validator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Password_validator/validator.html) |
 | 19  | [Product Page Design](https://github.com/hassan42772/JavaScript_projects/tree/main/ProductPageDesign)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/ProductPageDesign/product.html) |
-| 20  | [Progress Bar](https://github.com/hassan42772/JavaScript_projects/tree/main/ProgressBar)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/ProgressBar/ProgressBar.html) |
+| 20  | [Progress Bar](https://github.com/hassan42772/JavaScript_projects/tree/main/ProgressBar)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/ProgressBar/progressbar.html) |
 | 21  | [QR Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/QR_Generator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/QR_Generator/QR.html) |
 | 22  | [Quiz App](https://github.com/hassan42772/JavaScript_projects/tree/main/QuIz_App)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/QuIz_App/Quiz_app.html) |
 | 23  | [Quote Generator](https://github.com/hassan42772/JavaScript_projects/tree/main/Quote_Generator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Quote_Generator/Quote_Generator.html) |
