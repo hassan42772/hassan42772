@@ -88,9 +88,9 @@
 <br/>
 <h3 align="center">🐍Our Projects🐍</h3>
 
-<div align="center" width="1000">
+<div align="center">
 
-|  #  | Project                                                                                                                    | Live Demo |
+|  #  | ------------------------------------------------------------------Project---------------------------------------------------------                                                                                                                    | Live Demo |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------- |
 | 01  | [Age Calculator](https://github.com/hassan42772/JavaScript_Project/tree/main/Age_calculator)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Age_calculator/Age_calculator.html) |
 | 02  | [BMI Calculator](https://github.com/hassan42772/JavaScript_projects/tree/main/BMI_Calculator_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/BMI_Calculator_project/BMI_Calculatot.html) |
