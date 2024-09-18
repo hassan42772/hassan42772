@@ -121,6 +121,7 @@
 | 27  | [TO-DO List](https://github.com/hassan42772/JavaScript_projects/tree/main/TO-DO-LIST)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/TO_DO_LIST.html) |
 | 28  | [Text to Voice Converter](https://github.com/hassan42772/JavaScript_projects/tree/main/TextToVoiceConverter)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/TextToVoiceConverter/voice.html) |
 | 29  | [Weather App](https://github.com/hassan42772/JavaScript_projects/tree/main/weather_app_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/weather_app_project/weather_button_link.html) |
+| 30  | [Toss_Coin_Game](https://github.com/hassan42772/JavaScript_projects/tree/main/Toss_Coin_game)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Toss_Coin_game/Toss.html) |
 
 
 
