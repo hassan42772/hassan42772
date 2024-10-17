@@ -86,6 +86,11 @@
 <hr/>
 
 <br/>
+<h1 align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;)" alt="Typing SVG" /></a>
+</h1>
+<br/>
+
 <h3 align="center">🐍Our Projects🐍</h3>
 
 <div align="center">
@@ -123,9 +128,6 @@
 | 29  | [Weather App](https://github.com/hassan42772/JavaScript_projects/tree/main/weather_app_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/weather_app_project/weather_button_link.html) |
 | 30  | [Toss_Coin_Game](https://github.com/hassan42772/JavaScript_projects/tree/main/Toss_Coin_game)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Toss_Coin_game/Toss.html) |
 | 31  | [Fruit_Cutting_Game](https://github.com/hassan42772/JavaScript_projects/tree/main/Fruit_Cutting_Game)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Fruit_Cutting_Game/fruit.html) |
-
-
-
 
 </div>
 
