@@ -77,7 +77,7 @@
 <img align='center' src="https://raw.githubusercontent.com/hassan42772/hassan42772/output/snake.svg" alt="Snake animation" />
 <hr/>
 <div align="center">
- <img  alt="Coding" width="800" height="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+ <img align="center"  alt="Coding" width="800" height="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
   <br>
 
 
@@ -85,10 +85,6 @@
 </div>
 <hr/>
 
-<br/>
-<h1 align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
-</h1>
 <br/>
 
 <h3 align="center">🐍Our Projects🐍</h3>
@@ -130,4 +126,9 @@
 | 31  | [Fruit_Cutting_Game](https://github.com/hassan42772/JavaScript_projects/tree/main/Fruit_Cutting_Game)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Fruit_Cutting_Game/fruit.html) |
 
 </div>
-
+</br>
+</hr>
+<h1 align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
+</h1>
+</br>
