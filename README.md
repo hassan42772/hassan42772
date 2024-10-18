@@ -14,13 +14,13 @@
  
 ✨ Creating bugs since 2022
  
- 🌱 I’m currently learning **React JS**
+📝 I’m currently learning **React JS**
 
-💬 Ask me about **React , JavaScript , IOT , Python(TKINTER), Html , CSS , C#**
+📫 Ask me about **React , JavaScript , IOT , Python(TKINTER), Html , CSS , C#**
 
-📫 How to reach me **ranahassan427726@gmail.com**
+💬 How to reach me **ranahassan427726@gmail.com**
 
-⚡ Fun fact **I Play Game**
+🎮 Fun fact **I Play Game**
 
  </div>
  
