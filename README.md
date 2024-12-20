@@ -23,17 +23,7 @@
 🎮 Fun fact **I Play Game**
 
  </div>
- <div align="center">
-As a university student passionate about web development, I have gained hands-on experience by working on various academic projects. Through these projects, I have         honed  my skills in creating responsive and interactive websites, blending creativity with functionality.
- <br/> <br/> 
-Experiences:
-<br/>
-    Academic Projects: Completed over 40 projects, including responsive websites, interactive applications, and dynamic components using HTML, CSS, JavaScript, and React JS. <br/>
-    Responsive Design: Specialized in designing websites that provide seamless user experiences across all devices. <br/>
-    Practical Learning: Integrated Firebase into projects for data storage and user registration functionalities. <br/>
-    Teamwork and Collaboration: Collaborated with peers on group projects, developing problem-solving and communication skills in the process. <br/>
-    Continuous Improvement: Always eager to learn and explore new tools and technologies to enhance my development capabilities.
- </div> <br/>
+ <hr/>
 <div align="center"> 
    <a href="https://www.instagram.com/ranahassan7485/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -49,7 +39,20 @@ Experiences:
   </a>
   
 </div>
-
+ <hr/>
+ <h2 align="center"> About <h3/> 
+     
+ <div align="justify">
+As a university student passionate about web development, I have gained hands-on experience by working on various academic projects. Through these projects, I have         honed  my skills in creating responsive and interactive websites, blending creativity with functionality.
+ <br/> <br/> 
+Experiences:
+<br/>
+    Academic Projects: Completed over 40 projects, including responsive websites, interactive applications, and dynamic components using HTML, CSS, JavaScript, and React JS. <br/>
+    Responsive Design: Specialized in designing websites that provide seamless user experiences across all devices. <br/><br/>
+    Practical Learning: Integrated Firebase into projects for data storage and user registration functionalities. <br/><br/>
+    Teamwork and Collaboration: Collaborated with peers on group projects, developing problem-solving and communication skills in the process. <br/><br/>
+    Continuous Improvement: Always eager to learn and explore new tools and technologies to enhance my development capabilities.
+ </div> <br/>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
