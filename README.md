@@ -28,10 +28,10 @@ As a university student passionate about web development, I have gained hands-on
  <br/> <br/> 
 Experiences:
 <br/>
-    Academic Projects: Completed over 40 projects, including responsive websites, interactive applications, and dynamic components using HTML, CSS, JavaScript, and React JS.
-    Responsive Design: Specialized in designing websites that provide seamless user experiences across all devices.
-    Practical Learning: Integrated Firebase into projects for data storage and user registration functionalities.
-    Teamwork and Collaboration: Collaborated with peers on group projects, developing problem-solving and communication skills in the process.
+    Academic Projects: Completed over 40 projects, including responsive websites, interactive applications, and dynamic components using HTML, CSS, JavaScript, and React JS. <br/>
+    Responsive Design: Specialized in designing websites that provide seamless user experiences across all devices. <br/>
+    Practical Learning: Integrated Firebase into projects for data storage and user registration functionalities. <br/>
+    Teamwork and Collaboration: Collaborated with peers on group projects, developing problem-solving and communication skills in the process. <br/>
     Continuous Improvement: Always eager to learn and explore new tools and technologies to enhance my development capabilities.
  </div> <br/>
 <div align="center"> 
