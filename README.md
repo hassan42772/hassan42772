@@ -23,6 +23,13 @@
 🎮 Fun fact **I Play Game**
 
  </div>
+  <hr/>
+<div align="center">   
+ <h2 align="center">🤖 My Portfolio  <h3/>
+<a href="https://ranahassan.netlify.app/" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+<div/>
  <hr/>
 <div align="center"> 
    <a href="https://www.instagram.com/ranahassan7485/" target="_blank">
@@ -37,12 +44,9 @@
   <a href="https://wa.me/+923136064985" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-   <a href="https://ranahassan.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-  </a>
-  
 </div>
- <hr/>
+
+   <hr/>
  <h2 align="center"> About <h3/> 
      
  <div align="justify">
@@ -61,12 +65,9 @@ Experiences:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,sublime,visualstudio,pycharm,cpp" /></br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48"/> 
-
-
-
-<img src="https://skillicons.dev/icons?i=python,javascript,firebase,mysql,arduino" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,sublime,visualstudio,pycharm" /></br>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48"/>  -->
+<img src="https://skillicons.dev/icons?i=python,javascript,firebase,arduino" />
 
 </div>
 
