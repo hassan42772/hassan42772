@@ -66,7 +66,6 @@ Experiences:
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,sublime,visualstudio,pycharm" /></br>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48"/>  -->
 <img src="https://skillicons.dev/icons?i=python,javascript,firebase,arduino" />
 
 </div>
