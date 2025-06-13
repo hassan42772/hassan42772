@@ -25,26 +25,13 @@
  </div>
   <hr/>
 <div align="center">   
- <h2 align="center">🤖 My Portfolio  <h3/>
+ <h2 align="center">🤖 My Portfolio<h3/>
 <a href="https://ranahassan.netlify.app/" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-  </a>
+</a>
 <div/>
- <hr/>
-<div align="center"> 
-   <a href="https://www.instagram.com/ranahassan7485/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="ranahassan427726@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rana-hassan-99b850298/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/+923136064985" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+
+
 
    <hr/>
  <h2 align="center"> About <h3/> 
