@@ -49,12 +49,12 @@
    <hr/>
  <h2 align="center"> About <h3/> 
      
- <div align="justify">
+ <div align="center">
 As a university student passionate about web development, I have gained hands-on experience by working on various academic projects. Through these projects, I have         honed  my skills in creating responsive and interactive websites, blending creativity with functionality.
  <br/> <br/> 
-Experiences:
+Experiences:<br/>
 <br/>
-    Academic Projects: Completed over 40 projects, including responsive websites, interactive applications, and dynamic components using HTML, CSS, JavaScript, and React JS. <br/>
+    Academic Projects: Completed over 40 projects, including responsive websites, interactive applications, and dynamic components using HTML, CSS, JavaScript, and React JS. <br/><br/>
     Responsive Design: Specialized in designing websites that provide seamless user experiences across all devices. <br/><br/>
     Practical Learning: Integrated Firebase into projects for data storage and user registration functionalities. <br/><br/>
     Teamwork and Collaboration: Collaborated with peers on group projects, developing problem-solving and communication skills in the process. <br/><br/>
@@ -88,16 +88,7 @@ Experiences:
 
 <br/><br/>
 
-<hr/>
-<h3 align="center">🐍Snake Game🐍</h3>
-<img align='center' src="https://raw.githubusercontent.com/hassan42772/hassan42772/output/snake.svg" alt="Snake animation" />
-<hr/>
-<div align="center">
- <img align="center"  alt="Coding" width="800" height="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-  <br>
 
-
-  <br/>
 </div>
 <hr/>
 
