@@ -118,6 +118,7 @@ Experiences:<br/>
 | 29  | [Weather App](https://github.com/hassan42772/JavaScript_projects/tree/main/weather_app_project)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/weather_app_project/weather_button_link.html) |
 | 30  | [Toss_Coin_Game](https://github.com/hassan42772/JavaScript_projects/tree/main/Toss_Coin_game)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Toss_Coin_game/Toss.html) |
 | 31  | [Fruit_Cutting_Game](https://github.com/hassan42772/JavaScript_projects/tree/main/Fruit_Cutting_Game)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/Fruit_Cutting_Game/fruit.html) |
+| 32  | [Weather App](https://github.com/hassan42772/JavaScript_projects/tree/main/WeatherApp)  | [Live Demo](https://hassan42772.github.io/JavaScript_Project/WeatherApp/Weather.html) |
 
 </div>
 </br>
