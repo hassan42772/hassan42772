@@ -26,7 +26,7 @@
   <hr/>
 <div align="center">   
  <h2 align="center">🤖 My Portfolio<h3/>
-<a href="https://ranahassan.netlify.app/" target="_blank" >
+<a href="https://hassan07.netlify.app/" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
 </a>
 <div/>
