@@ -16,7 +16,7 @@
  
 📝 I’m currently learning **React JS**
 
-📫 Ask me about **React , JavaScript , IOT , Python(TKINTER), Html , CSS , C#**
+📫 Ask me about **React , JavaScript , IOT , Html , CSS **
 
 💬 How to reach me **ranahassan427726@gmail.com**
 
