@@ -55,31 +55,9 @@ Experiences:<br/>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,sublime,visualstudio,pycharm" /></br>
 <img src="https://skillicons.dev/icons?i=python,javascript,firebase,arduino" />
 
-</div>
 
-<br/>
 <hr/>
 
-<h3 align="center">⚡Stats⚡</h3>
-
-
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan42772&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="190" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hassan42772&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<br/><br/>
-
-
-</div>
-<hr/>
-
-<br/>
 
 <h3 align="center">🐍Our Projects🐍</h3>
 
