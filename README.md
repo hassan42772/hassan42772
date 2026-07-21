@@ -53,9 +53,7 @@ Experiences:<br/>
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,sublime,visualstudio,pycharm" /></br>
-<img src="https://skillicons.dev/icons?i=python,javascript,firebase,arduino" />
-
-
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,mongodb,firebase,supabase,git,tailwind,vscode,figma,arduino" />
 <hr/>
 
 
