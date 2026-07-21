@@ -14,7 +14,7 @@
  
 ✨ Creating bugs since 2022
  
-📝 I’m currently learning **React JS**
+📝 I’m currently learning **Node JS**
 
 📫 Ask me about **React , JavaScript , IOT , Html , CSS **
 
