@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and relational databases like **MySQL**. With a **Bachelor of Arts** degree and a unique background spanning 4 years of IoT development, I build robust, real-time web applications and hardware-integrated solutions.
+I am a passionate **Full Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and relational databases like **MySQL**. With a **Bachelor of Computer Science** degree and a unique background spanning 2 years of IoT development, I build robust, real-time web applications and hardware-integrated solutions.
 
 - 💻 **Web Engineering:** Currently building scalable, full-stack web apps with modern technologies including JWT authentication, 2FA, **Socket.IO**, and **WebRTC** for real-time peer-to-peer communication.
 - 🔧 **Hardware & IoT:** 2 years of experience designing IoT solutions (Smart Parking Systems, Smart Solar Panel Cleaners, Smart Rain Shelters).
