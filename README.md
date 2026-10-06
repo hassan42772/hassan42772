@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Abdullah!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hassan+Maqbool!;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Full Stack Developer (MERN) | IoT Engineer </h3>
@@ -50,6 +50,10 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 
 **Tools & IoT**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" />
+
+**Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+
 
 </div>
 
