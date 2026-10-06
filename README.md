@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hassan42772.hassan42772&" alt="visitor badge" />
   <br/><br/>
-  <img src="https://github.com/hassan42772/hassan42772/blob/main/NEW3.png" alt="logo" />
+  <img src="https://github.com/hassan42772/hassan42772/blob/main/poster.png" alt="logo" />
 </div>
 
 <h1 align="center">
