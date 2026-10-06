@@ -53,8 +53,9 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 
 **Deployment**<br/>
 <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-
-
+<a href="https://railway.app">
+  <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" height="48" />
+</a>
 </div>
 
 <hr/>
