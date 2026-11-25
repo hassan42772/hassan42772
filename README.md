@@ -11,13 +11,13 @@
 <h3 align="center">Full-Stack Web Developer (MERN) · AI & RAG Pipeline Engineer · IoT Systems</h3>
 
 <div align="center">
-  <a href="https://hassan07.netlify.app/" target="_blank">
+  <a href="https://hassan-coder.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-060708?style=for-the-badge&logo=netlify&logoColor=47F59C" height="34" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/hassan-maqbool-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-060708?style=for-the-badge&logo=linkedin&logoColor=47F59C" height="34" alt="LinkedIn" />
   </a>
-  <a href="mailto:hassan427726@gmail.com">
+  <a href="mailto:hassan427726g@gmail.com">
     <img src="https://img.shields.io/badge/hassan427726%40gmail.com-060708?style=for-the-badge&logo=gmail&logoColor=47F59C" height="34" alt="Email" />
   </a>
 </div>
